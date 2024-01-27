@@ -1,4 +1,4 @@
 ---
 title: Home
-order: 0
+order: 1
 ---

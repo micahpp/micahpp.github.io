@@ -1,6 +1,6 @@
 ---
 title: About
-order: 1
+order: 2
 ---
 
 Hi, Im Micah (pronounced Mee-kah) 👋🏾

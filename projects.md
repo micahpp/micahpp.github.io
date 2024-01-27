@@ -1,5 +1,6 @@
 ---
 title: Projects
+order: 2
 ---
 
 ## [New Years resolution tracking dashboard](https://micahpp-new-years-resolution-2021-app-50pjqo.streamlit.app/)

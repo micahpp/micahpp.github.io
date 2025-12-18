@@ -4,4 +4,6 @@ title: Home
 order: 1
 ---
 
-testing, testing, 1,2,3
+Welcome to my site! Here are my latest posts:
+
+{% include posts.html %}

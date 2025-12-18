@@ -2,14 +2,14 @@ title: My Site
 description: Something, something, description
 
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 
 remote_theme: daviddarnes/alembic@main
 
 navigation:
-  - label: Home
-    url: /
-  - label: Projects
-    url: /projects/
-  - label: About
-    url: /about/
+- label: Home
+  url: /
+- label: Projects
+  url: /projects/
+- label: About
+  url: /about/

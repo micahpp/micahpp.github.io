@@ -6,6 +6,8 @@ plugins:
 
 remote_theme: daviddarnes/alembic@main
 
+navigation_pages: false
+
 navigation:
 - label: Home
   url: /

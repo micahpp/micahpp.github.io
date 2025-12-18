@@ -11,7 +11,7 @@ navigation_pages: false
 navigation:
 - label: Home
   url: /
-- label: Projects
-  url: /projects/
 - label: About
   url: /about/
+- label: Projects
+  url: /projects/

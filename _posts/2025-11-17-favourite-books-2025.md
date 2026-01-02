@@ -5,10 +5,6 @@ date: 2026-01-02
 
 
 
-# Favourite books of 2025
-![screenshot](../media/test.png)
-
-
 ### Blood and Treasure: The Economics of Conflict from the Vikings to Ukraine
 by Duncan Weldon
 
